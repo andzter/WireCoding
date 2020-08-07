@@ -1,0 +1,6 @@
+C:\Exam\WireCodingChallenge\WireCodingChallenge.Lib\obj\Debug\WireCodingChallenge.Lib.csprojAssemblyReference.cache
+C:\Exam\WireCodingChallenge\WireCodingChallenge.Lib\obj\Debug\WireCodingChallenge.Lib.csproj.CoreCompileInputs.cache
+C:\Exam\WireCodingChallenge\WireCodingChallenge.Lib\bin\Debug\WireCodingChallenge.Lib.dll
+C:\Exam\WireCodingChallenge\WireCodingChallenge.Lib\bin\Debug\WireCodingChallenge.Lib.pdb
+C:\Exam\WireCodingChallenge\WireCodingChallenge.Lib\obj\Debug\WireCodingChallenge.Lib.dll
+C:\Exam\WireCodingChallenge\WireCodingChallenge.Lib\obj\Debug\WireCodingChallenge.Lib.pdb
